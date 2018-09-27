@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webWidget>
+	<widgetName>S3 Mini Indonesia</widgetName>
+	<registeredUrl>
+		<link>http://stat.appsgeyser.com/statistics.php</link>
+	</registeredUrl>  
+		<id>509845</id>
+	<usage>
+		<link>http://stat.appsgeyser.com/statistics.php</link>
+	</usage>
+	<preventFromSleep>false</preventFromSleep>
+	<locationUrl>
+		<link>icc.to/desktopify/android/location.php</link>  
+	</locationUrl>
+	<contentProtection></contentProtection>
+	<acceptCookie>true</acceptCookie>
+	<userInterface>standard</userInterface>
+	<bannerPosition>bottom</bannerPosition>
+	<rateItemVisibility>FALSE</rateItemVisibility>
+	<showRefreshMenuItem>TRUE</showRefreshMenuItem>
+	<enableUrlBar>false</enableUrlBar>
+	<enableFullScreenBanner>false</enableFullScreenBanner>
+	<enableRedirection>true</enableRedirection>
+	<affiliate></affiliate>
+	<publisher>Ranggi Rahman</publisher>
+	<enableAboutScreen>true</enableAboutScreen>
+		<content>
+					<id>tab0</id>
+					<tabId>559314</tabId>
+					<name>Home</name>
+					<link>https://m.facebook.com/groups/122236157957508</link>
+					<update>0</update>
+					<width>319</width>
+					<height>458</height>
+					<tabName>Home</tabName>
+					<tabIcon>tabicon_0</tabIcon>
+					
+					<loadingCurtain>none</loadingCurtain>
+					
+				 </content>
+			 <content>
+					<id>tab1</id>
+					<tabId>559332</tabId>
+					<name>Doc</name>
+					<link>https://m.facebook.com/groups/122236157957508?view=files</link>
+					<update>0</update>
+					<width>319</width>
+					<height>458</height>
+					<tabName>Doc</tabName>
+					<tabIcon>tabicon_1</tabIcon>
+					
+					<loadingCurtain>none</loadingCurtain>
+					
+				 </content>
+			 <content>
+					<id>tab2</id>
+					<tabId>559389</tabId>
+					<name>Pic</name>
+					<link>http://m.facebook.com/media/set/?set=o.122236157957508&amp;type=1</link>
+					<update>0</update>
+					<width>319</width>
+					<height>458</height>
+					<tabName>Pic</tabName>
+					<tabIcon>tabicon_2</tabIcon>
+					
+					<loadingCurtain>none</loadingCurtain>
+					
+				 </content>
+			 
+</webWidget>
